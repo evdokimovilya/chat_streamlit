@@ -12,3 +12,4 @@ You can add more prompts-pages
   1. Add new page to the pages
   2. Add new txt prompt to the prompts folder
 
+![image](https://github.com/user-attachments/assets/07371f12-3fc6-4445-9a51-a06edec04bfc)
